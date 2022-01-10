@@ -17,9 +17,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#the-challenge">The Challenge</a></li>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="#key-features">Key Features</a></li>
       </ul>
     </li>
     <li>
